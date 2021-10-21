@@ -1,7 +1,7 @@
 # goGaga
-Learn Go Lang Here
-Following are the resources which you can use to get started with GO lang.
-Install Go and play with it online:-  https://go.dev/
-Learn basics and syntax:- https://www.tutorialspoint.com/go/index.htm
-See some examples:- https://gobyexample.com/
+## Learn Go Lang Here
+### Some Basic Resources
+1. Install Go and play with it online:-  https://go.dev/
+2. Learn basics and syntax:- https://www.tutorialspoint.com/go/index.htm
+3. See some examples:- https://gobyexample.com/
 

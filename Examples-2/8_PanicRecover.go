@@ -15,6 +15,7 @@ func panicFunc() {
 		fmt.Println("Hello from defer")
 		fmt.Println(action)
 	}()
+
 	fmt.Println("Enter 1 for Student and 2 for Professional")
 	fmt.Scanln(&action)
 	/*  Use of Switch Case in Golang */
